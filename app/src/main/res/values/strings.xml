@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TodoList</string>
+
+    <string name="title">오늘 할 일을 적어볼까요?</string>
+    <string name="progress_percent">%1$d%%</string>
+    <string name="progress_title_start">간단하게라도 하나 해볼까요?</string>
+    <string name="progress_title_ing">오늘 열심히 살고 계시는 군요?</string>
+    <string name="progress_title_finish">이만큼 해내다니 대단해요!!!</string>
+    <string name="progress_task_rate">%d/%d 완료</string>
+
+    <string name="task_title">현재 %d개의 할 일이 남아 있어요</string>
+    <string name="task_empty_msg">오늘은 쉬는 날 인가요??</string>
+    <string name="task_done_msg">오늘도 고생하셨어요!</string>
+</resources>
